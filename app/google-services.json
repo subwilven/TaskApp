@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021286503211",
+    "firebase_url": "https://note-app-task.firebaseio.com",
+    "project_id": "note-app-task",
+    "storage_bucket": "note-app-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021286503211:android:dcc488cd5f6d206c",
+        "android_client_info": {
+          "package_name": "com.islam.noteapptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021286503211-kqlsebd6bc3jb39mkcodq2ikcse3c3r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islam.noteapptask",
+            "certificate_hash": "25f57449e2a322dbab968765261707888b92adf5"
+          }
+        },
+        {
+          "client_id": "1021286503211-cthdbluej4tles3u0tb3soraij1cj8ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2VJoPcbRTxDzmdHWeZP9lEiYXzBcbqfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021286503211-cthdbluej4tles3u0tb3soraij1cj8ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
